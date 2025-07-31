@@ -1,6 +1,6 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)
-![Status](https://img.shields.io/badge/status-finished-success)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
 # Bird Flap Game 🐦
 
 A classic **Flappy Bird-style game** made with **Python** and **Turtle Graphics**, using object-oriented programming and sprite assets. The player controls a bird that flaps through randomly generated pipes, avoiding obstacles and trying to achieve the highest possible score.
