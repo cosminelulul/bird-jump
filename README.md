@@ -1,7 +1,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
-# Bird Flap Game 🐦
+# Bird Flap Game 
 
 A classic **Flappy Bird-style game** made with **Python** and **Turtle Graphics**, using object-oriented programming and sprite assets. The player controls a bird that flaps through randomly generated pipes, avoiding obstacles and trying to achieve the highest possible score.
 
@@ -9,7 +9,7 @@ Built during my second year of university as an object-oriented Python exercise 
 
 ---
 
-## 🎮 Gameplay Overview
+##  Gameplay Overview
 
 - The bird is affected by **gravity**, and you must **flap** (via `SPACE` or `LEFT CLICK`) to keep it airborne.
 - Pipes are generated at intervals with randomized gaps that the bird must fly through.
@@ -28,7 +28,7 @@ Built during my second year of university as an object-oriented Python exercise 
 
 ---
 
-## 💡 Features
+## Features
 
 - Object-Oriented Design with clean modular code
 - Turtle-based sprite rendering using `.gif` assets
@@ -40,7 +40,7 @@ Built during my second year of university as an object-oriented Python exercise 
 
 ---
 
-## 🖼 Gameplay
+##  Gameplay
 
 | Menu Screen                          | In-Game                             | Game Over                         |
 |-------------------------------------|-------------------------------------|-----------------------------------|
@@ -49,7 +49,14 @@ Built during my second year of university as an object-oriented Python exercise 
 
 ---
 
-## 🧱 Tech Stack
+##  Visual Assets
+
+All visual assets belong to the following creators and are used under their respective standard free licenses (for personal use):
+
+-  [ Free Game Assets - Nature Landscapes Free Pixel Art](https://craftpix.net/file-licenses/)  
+-  [ kangjung - Pigeon Pixel](https://kangjung.itch.io/pigeon-pixel)  
+
+##  Tech Stack
 
 - **Language**: Python 3.x
 - **Graphics**: Turtle Graphics
@@ -59,14 +66,14 @@ Built during my second year of university as an object-oriented Python exercise 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🧰 Prerequisites
+###   Prerequisites
 
 - Python 3.8 or higher
 - Turtle module (comes with standard Python)
 
-### 📥 Installation
+###  Installation
 
 ```bash
 git clone https://github.com/cosminelul/bird-jump.git
